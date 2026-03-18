@@ -1,0 +1,5 @@
+name: cache reset
+description: "Clear cached form values for an Open OnDemand Batch Connect app"
+category: Jobs
+subcategory: "Utilities"
+role: web
