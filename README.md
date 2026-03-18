@@ -95,7 +95,7 @@ This app is intentionally narrow in scope. It is not a general file browser or c
 
 ## Contributor
 
-![Yucheng Zhang](https://github.com/zhan4429.png)
+<img src="https://github.com/zhan4429.png" alt="Yucheng Zhang" width="120">
 
 Yucheng Zhang  
 Research Technology, Tufts Technology Services  
