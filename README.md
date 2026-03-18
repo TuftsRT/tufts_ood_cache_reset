@@ -93,6 +93,15 @@ Only one cache file is deleted per request. The app never accepts an arbitrary p
 
 This app is intentionally narrow in scope. It is not a general file browser or cache management interface.
 
+## Contributor
+
+![Yucheng Zhang](https://github.com/zhan4429.png)
+
+Yucheng Zhang  
+Research Technology, Tufts Technology Services  
+Tufts University  
+yucheng.zhang@tufts.edu
+
 ## License
 
 See [LICENSE](LICENSE).
