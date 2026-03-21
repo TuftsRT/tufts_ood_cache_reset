@@ -1,6 +1,6 @@
 # Cache Reset for Open OnDemand
 
-<img src="icon.png" alt="Cache Reset icon" width="96">
+<img src="icon.png" alt="Cache Reset icon" width="200">
 
 `Cache Reset` is a small Passenger app for [Open OnDemand](https://openondemand.org/) that lets a user remove saved Batch Connect form state from their own home directory.
 
@@ -31,7 +31,7 @@ This app presents the current user's eligible cache files and deletes exactly on
 
 ## Interface Preview
 
-![Cache Reset demo](docs/demo.png){width=60%
+![Cache Reset demo](docs/demo.png){width=60%}
 
 ## Repository Layout
 
